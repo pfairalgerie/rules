@@ -6,7 +6,7 @@
     <title>Server's rules</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="icon" type="image/png" href="https://cdn.discordapp.com/attachments/1377572968766636084/1378723450352570408/IMG_1513.png?ex=68498146&is=68482fc6&hm=765d245a39ec43facee5887a97831bb2b81dbdee74d55dbeca063f38a5caeaf3&">
+    <link rel="icon" type="image/png" href="https://cdn.discordapp.com/attachments/1377572968766636084/1382308390151258194/noFilter.webp?ex=684aae82&is=68495d02&hm=dc68b2dcf9213a211a7de376b9ae7f2a58888e8be889c75447c37e5fa308b10b&">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <style>
         body {
